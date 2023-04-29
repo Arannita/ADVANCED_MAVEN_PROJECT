@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-07T15:00:39 EDT" name="Failed suite [Default suite]" finished-at="2023-04-07T15:01:05 EDT" duration-ms="25930">
+    <groups>
+    </groups>
+    <test started-at="2023-04-07T15:00:39 EDT" name="Default test(failed)" finished-at="2023-04-07T15:01:05 EDT" duration-ms="25930">
+      <class name="com.testngcode_2ndApr_2023.DataDriven">
+        <test-method signature="loginNinjaTest(java.lang.String,java.lang.String)[pri:0, instance:com.testngcode_2ndApr_2023.DataDriven@28261e8e]" started-at="2023-04-07T15:00:39 EDT" name="loginNinjaTest" data-provider="getData" finished-at="2023-04-07T15:00:49 EDT" duration-ms="9662" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginNinjaTest -->
+        <test-method signature="loginNinjaTest(java.lang.String,java.lang.String)[pri:0, instance:com.testngcode_2ndApr_2023.DataDriven@28261e8e]" started-at="2023-04-07T15:00:49 EDT" name="loginNinjaTest" data-provider="getData" finished-at="2023-04-07T15:00:54 EDT" duration-ms="5330" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginNinjaTest -->
+        <test-method signature="loginNinjaTest(java.lang.String,java.lang.String)[pri:0, instance:com.testngcode_2ndApr_2023.DataDriven@28261e8e]" started-at="2023-04-07T15:00:54 EDT" name="loginNinjaTest" data-provider="getData" finished-at="2023-04-07T15:00:59 EDT" duration-ms="5359" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginNinjaTest -->
+        <test-method signature="loginNinjaTest(java.lang.String,java.lang.String)[pri:0, instance:com.testngcode_2ndApr_2023.DataDriven@28261e8e]" started-at="2023-04-07T15:00:59 EDT" name="loginNinjaTest" data-provider="getData" finished-at="2023-04-07T15:01:05 EDT" duration-ms="5550" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda845@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginNinjaTest -->
+      </class> <!-- com.testngcode_2ndApr_2023.DataDriven -->
+    </test> <!-- Default test(failed) -->
+  </suite> <!-- Failed suite [Default suite] -->
+</testng-results>
